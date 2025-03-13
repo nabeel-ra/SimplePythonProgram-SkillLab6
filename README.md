@@ -1,7 +1,5 @@
 # SimplePythonProgram-SkillLab6
 
-# Simple Python Program in Jupyter Notebook
-
 ## Description
 This program asks the user for their name and a number. It then squares the number and displays the result along with a greeting.
 
